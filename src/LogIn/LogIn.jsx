@@ -46,7 +46,7 @@ const LogIn = () => {
                 </label>
                 <input
                   type="email"
-                  name="name"
+                  name="email"
                   placeholder="Enter your email"
                   style={{
                     width: '100%',
@@ -77,6 +77,7 @@ const LogIn = () => {
                 </label>
                 <input
                   type="password"
+                  name="password"
                   placeholder="Enter your password"
                   style={{
                     width: '100%',
